@@ -1,5 +1,12 @@
 # 💫 About Me:
-•Dynamic Full Stack Java Developer with expertise in designing and implementing efficient, secure, and scalable web solutions <br>using Spring Boot and React.js.Proficient in utilizing Java advanced capabilities for backend development, RESTful API design, <br>and seamless integration with relational databases like SQL. <br>•Skilled in crafting responsive and user-friendly interfaces using React.js, HTML, CSS, JavaScript, and Bootstrap. <br>•Proficient in Java, Spring Boot, and RESTful API development, ensuring seamless backend operations and database <br>integration with MySQL. 
+
+•Dynamic Full Stack Java Developer with expertise in designing and implementing efficient, secure, and scalable web solutions <br>using Spring Boot and React.js.
+
+•Proficient in utilizing Java advanced capabilities for backend development, RESTful API design, <br>and seamless integration with relational databases like SQL. <br>
+
+•Skilled in crafting responsive and user-friendly interfaces using React.js, HTML, CSS, JavaScript, and Bootstrap. <br>
+
+•Proficient in Java, Spring Boot, and RESTful API development, ensuring seamless backend operations and database <br>integration with MySQL. 
 
 
 ## 🌐 Socials:
